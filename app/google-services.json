@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "442438114835",
+    "firebase_url": "https://textfood-1b858-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "textfood-1b858",
+    "storage_bucket": "textfood-1b858.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442438114835:android:1a766ce71598c5003c29e6",
+        "android_client_info": {
+          "package_name": "com.example.textfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442438114835-duso72n4cr8s2urnmo7lmk9rmjj14duc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB09AAZy4xTZA-go5IN_JLqtQbw7fMxWUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442438114835-duso72n4cr8s2urnmo7lmk9rmjj14duc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
